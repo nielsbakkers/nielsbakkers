@@ -1,3 +1,5 @@
+![alt text](https://nbakkers.nl/assets/images/logo-text-1-122x44.png "Logo")
+
 ### Hi there 👋
 
 <!--
