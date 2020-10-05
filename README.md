@@ -3,16 +3,13 @@
 ## Hi there! My name is Niels :heavy_check_mark: 
 
 #### 🔭 I’m currently working on ...
-
 * Expanding my knowledge about hacking
 * Working on school 
 
 #### 🌱 I’m currently learning ...
-
 * To improve my skill on hacking by using TryHackme and HackTheBox.
 
 #### ⚡ Fun fact: ...
-
 * I am currently 19 years old
 * Student in the Netherlands
 
