@@ -1,5 +1,3 @@
-![alt text](https://nbakkers.nl/assets/images/github-nielsbakkers-logo.png "Logo")
-
 ## Hi there! My name is Niels :heavy_check_mark: 
 
 #### 🔭 I’m currently working on ...
