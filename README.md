@@ -5,10 +5,10 @@
 * Working on school 
 
 #### 🌱 I’m currently learning ...
-* To improve my skill on hacking by using TryHackme and HackTheBox.
+* To improve my skills on hacking by using TryHackme and HackTheBox.
 
 #### ⚡ Fun fact: ...
-* I am currently 21 years old
+* I am currently 23 years old
 * Student in the Netherlands
 
 
